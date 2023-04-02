@@ -19,6 +19,7 @@ npm start
 - be-backend-app uses **4000 port**. (localhost:4000)
 - **fe-frontend-app** visualizes the data via React.
 - fe-frontend-app uses **3000 port**. (localhost:3000)
+- New book can be read, added, updated or deleted via the interface.
 
 ### SCREENSHOTS:
 <kbd><img src="images/Interface.png"/></kbd>
